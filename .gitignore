@@ -1,0 +1,11 @@
+# LaTeX datoteke
+*.pdf
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.gz
+
+# VSCode
+.vscode/
